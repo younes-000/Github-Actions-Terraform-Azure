@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) <font size =10> GitHub Actions and Terraform : Implementing Infrastructure on Azure : </font> 
  
  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Watch YouTube Video to complete below excerise - Start to Finish
@@ -16,3 +17,7 @@ Track Github Action Workflow<br>
 
 
   ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Watch more Videos on - YouTube.com/DevopsGuru
+=======
+# Github-Actions-Terraform-Azure
+Demo pour l'utilisation de Github actions
+>>>>>>> origin/main
