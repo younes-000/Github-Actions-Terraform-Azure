@@ -31,7 +31,9 @@ jobs:
         tf_actions_version: 0.14.8
         tf_actions_subcommand: 'fmt'
         tf_actions_working_dir: "./terraform"
-        
+    - name: Terraform Init
+      run: terraform init
+
    
 
     - name: 'Terraform Validate'
